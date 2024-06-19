@@ -36,6 +36,7 @@ build/
 ### VS Code ###
 .vscode/
 .idea/
+.target/
 
 ### Mac OS ###
 .DS_Store
